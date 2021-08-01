@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Anastasiia Hevchuk PetLife",
+    "mongoUri": "mongodb+srv://anastasy24101999:murkiki2017@cluster0.1j0bm.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
